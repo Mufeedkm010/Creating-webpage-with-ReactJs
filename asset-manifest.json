@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.5a635e57.css",
-    "main.js": "/static/js/main.80b9be38.js",
-    "index.html": "/index.html",
-    "main.5a635e57.css.map": "/static/css/main.5a635e57.css.map",
-    "main.80b9be38.js.map": "/static/js/main.80b9be38.js.map"
+    "main.css": "/Creating-webpage-with-ReactJs/static/css/main.5a635e57.css",
+    "main.js": "/Creating-webpage-with-ReactJs/static/js/main.80b9be38.js",
+    "index.html": "/Creating-webpage-with-ReactJs/index.html",
+    "main.5a635e57.css.map": "/Creating-webpage-with-ReactJs/static/css/main.5a635e57.css.map",
+    "main.80b9be38.js.map": "/Creating-webpage-with-ReactJs/static/js/main.80b9be38.js.map"
   },
   "entrypoints": [
     "static/css/main.5a635e57.css",
